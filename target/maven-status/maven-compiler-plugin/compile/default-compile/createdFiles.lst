@@ -1,0 +1,4 @@
+com/ptit/dll/InvertedIndex$IndexMapper.class
+com/ptit/dll/InvertedIndex$IndexReducer.class
+com/ptit/dll/InvertedIndex.class
+com/ptit/dll/InvertedIndex$IndexCombiner.class
